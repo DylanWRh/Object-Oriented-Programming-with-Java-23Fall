@@ -130,7 +130,7 @@ public class Q2_HiLoGame {
             if (isInt(res)){
                 return Integer.parseInt(res);
             } else {
-                System.out.println("Invalid Input: Must be integer.\n");
+                System.out.println("Invalid Input: Must be integer.");
                 System.out.println(hint);
             }
         }
