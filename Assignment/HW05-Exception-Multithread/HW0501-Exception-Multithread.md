@@ -1,8 +1,5 @@
 # HW5-1 - Exception & Multithread
 
-注意：查找资料，了解Java注释的规定和约定，程序中要有清楚的注释。
-参考资料：[Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
-
 ## **001-异常捕获**
 
 <details>
